@@ -1,11 +1,10 @@
 # minimalbc
 
 This repository provides a Typst template for creating sleek and minimalist professional business cards. 
-the minimalbc function.
 
-The function **minimalbc** allows you to customize most of the elements of the business card 
+The function, **minimalbc**, allows you to customize the majority of the business card's elements. 
 
-The default layout is horizontal, but it can be easily switched to a vertical layout by passing the value true to the flip argument in the minimalbc function.
+By default, the layout is horizontal. However, it can be easily switched to a vertical layout by passing the value true to the flip argument in the minimalbc function.
 
 Here’s an example of how to use the minimalbc function:
 
